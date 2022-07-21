@@ -4,14 +4,15 @@
 	"type": "library",
 	"description": "A PHP class to generate PDF files from HTML with Unicode/UTF-8 and CJK support",
 	"keywords": ["php", "pdf", "utf-8"],
-	"homepage": "http://mpdf.github.io",
+	"homepage": "https://upgestao.com.br",
 	"license": ["GPL-2.0"],
 	"authors": [
 		{
 			"name": "Ian Back"
 		},
 		{
-		  "name": "Guilherme Melaninho"
+		    "name": "Guilherme Melaninho",
+		    "email": "guilherme@upgestao.com.br"
 		},
 		{
 		  "name": "Samuel Edson",
