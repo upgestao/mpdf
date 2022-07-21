@@ -1,6 +1,6 @@
 {
 
-	"name": "mpdfup/mpdfup",
+	"name": "upgestao/mpdf",
 	"type": "library",
 
 	"description": "A PHP class to generate PDF files from HTML with Unicode/UTF-8 and CJK support",
@@ -13,6 +13,13 @@
 	"authors": [
 		{
 			"name": "Ian Back"
+		},
+		{
+		  "name": "Guilherme Melaninho"
+		},
+		{
+		  "name": "Samuel Edson",
+		  "email": "samueledson.ti@gmail.com"
 		}
 	],
 
